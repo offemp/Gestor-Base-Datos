@@ -1,4 +1,4 @@
-# 🏡 Resident Manager - SQLite & Tkinter GUI
+#  Resident Manager - SQLite & Tkinter GUI
 
 A basic desktop application built with Python for managing a residence database using **SQLite** for data persistence and **Tkinter** for the graphical user interface (GUI).
 
